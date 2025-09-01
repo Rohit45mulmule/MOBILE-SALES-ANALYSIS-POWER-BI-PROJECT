@@ -1,4 +1,4 @@
-# MOTOROLA-SALES-ANALYSIS-POWER-BI-PROJECT
+# MOBILE-SALES-ANALYSIS-POWER-BI-PROJECT
 
 ### Market Analysis
 - **Consumer Behavior**: Sales patterns indicate a strong preference for premium brands like Apple and Vivo, suggesting a market segment willing to invest in high-quality mobile devices. The peak sales on Saturdays and Fridays align with typical consumer shopping trends during weekends and pre-weekend days.
