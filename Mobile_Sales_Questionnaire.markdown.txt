@@ -1,0 +1,42 @@
+# Motorola Sales Questionnaire 
+
+
+## General Sales Information
+1. What factors do you think contributed to the total sales of 62M?
+2. How would you interpret the total quantity of 2K in relation to the total sales?
+3. What could be the reason behind the average value of 39K per transaction?
+
+## Sales by Mobile Model
+4. Which mobile model (Vivo V20, iPhone 12, iPhone 11) do you think has the most growth potential, and why?
+5. How can the sales of "Others" (0M) be improved based on current data?
+
+## Sales by Brand
+6. Why do you think Apple and Vivo have the highest sales (1,391,232 and 1,395,625 respectively)?
+7. What strategies could be implemented to boost Samsung’s sales, which are at 1,087,624?
+
+## Sales by City
+8. What might explain Delhi’s position as the highest sales city compared to others like Madurai?
+9. How can sales be increased in lower-performing cities like Madurai and Chennai?
+
+## Sales by Month and Day (August)
+10. What could be the reason for the peak sales quantity of 65 on the 10th of August?
+11. How can the company stabilize the fluctuating sales trend observed throughout August?
+
+## Sales by Day Name
+12. Why do you think Saturday (10.3M) and Friday (9.3M) have the highest sales compared to Thursday (7.3M)?
+13. What promotional activities could be planned to boost sales on lower-performing days like Thursday?
+
+## Customer Ratings
+14. What might be the reasons behind the 33 five-star ratings and the 2 one-star ratings?
+15. How can the company improve customer satisfaction to increase the number of higher ratings?
+
+## Payment Method Analysis
+16. What factors could be driving the 36.59% preference for credit card payments?
+17. How can the company encourage more usage of cash and debit card payments, which are at 21.95% each?
+
+## Overall Strategy
+18. Based on the dashboard data, what are the top three areas Motorola should focus on to improve sales?
+19. How can the company leverage the current data to plan for the upcoming months (September-December 2025)?
+
+## Additional Feedback
+20. Do you have any other observations or suggestions based on the dashboard that could benefit Motorola’s sales strategy?
